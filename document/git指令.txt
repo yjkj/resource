@@ -1,2 +1,4 @@
 ﻿1、从当前目录初始化
 git init
+2、检查当前文件状态
+git status
